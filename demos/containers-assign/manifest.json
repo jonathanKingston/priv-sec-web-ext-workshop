@@ -1,0 +1,18 @@
+{
+  "background": {
+    "scripts": ["tabs.js"]
+  },
+  "permissions": [
+    "cookies",
+    "contextualIdentities",
+    "tabs",
+    "webRequest",
+    "webRequestBlocking",
+    "<all_urls>",
+    "tabs"
+  ],
+  "description": "An experiment for containers.",
+  "manifest_version": 2,
+  "name": "Container assign",
+  "version": "1.0"
+}

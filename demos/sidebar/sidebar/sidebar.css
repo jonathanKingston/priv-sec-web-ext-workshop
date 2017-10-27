@@ -1,0 +1,15 @@
+* {
+  font-family: sans-serif;
+}
+
+h1 {
+  border-block-end: 1px solid #333;
+}
+
+div {
+  display: flex;
+}
+
+div span {
+  flex: 1;
+}

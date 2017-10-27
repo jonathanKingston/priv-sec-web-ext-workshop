@@ -1,0 +1,20 @@
+{
+  "permissions": [
+    "cookies",
+    "contextualIdentities",
+    "tabs",
+    "<all_urls>",
+    "tabs"
+  ],
+  "description": "An experiment for containers.",
+  "manifest_version": 2,
+  "name": "Container sidebar",
+  "version": "1.0",
+
+  "sidebar_action": {
+    "default_icon": "icons/containers.png",
+    "default_title" : "Containers",
+    "default_panel": "sidebar/index.html"
+  }
+
+}
