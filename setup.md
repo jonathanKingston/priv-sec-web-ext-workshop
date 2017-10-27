@@ -9,13 +9,8 @@
 
 ### Then
 
-- [Test pilot](https://testpilot.firefox.com/experiments/containers)
+- Install [Node](https://nodejs.org/en/) which will also install npm.
+- `npm install web-ext`
 
-### OR configure
-
-- type `about:config` into the address bar
-- Click "I accept the risk"
-- Search "userContext"
-- Make sure `privacy.userContext.enabled` is set to true
 
 [< Back to the workshop](README.md)
