@@ -134,8 +134,11 @@ Another one of the features we have added is [Sidebars](https://developer.mozill
   - Privacy API to control privacy preferences
   - Protocol handling to register `irc://` etc
   - Devtools apis
-- **Firefox 55**
+- [Firefox 55](https://blog.mozilla.org/addons/2017/06/14/webextensions-firefox-55/)
   - [Proxy API](https://github.com/mdn/webextensions-examples/pull/205/commits/5a4deba814e521ded08970d10f4023fff5e4daa1)
+- [Firefox 56](https://blog.mozilla.org/addons/2017/08/10/webextensions-firefox-56/)
+- [Firefox 57](https://blog.mozilla.org/addons/2017/09/28/webextensions-in-firefox-57/)
+
 
 ## Make it bleeding
 
