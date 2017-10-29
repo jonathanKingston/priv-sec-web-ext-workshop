@@ -15,7 +15,9 @@
 
 ## Further resources
 
+- [Your first Web Extension](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Your_first_WebExtension)
 - [Web Extension examples](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Examples)
+- [Writing a Container add-on](https://hacks.mozilla.org/2017/10/containers-for-add-on-developers/)
 - [Containers assignment](https://jotter.jonathankingston.co.uk/blog/2017/04/04/containers-assignment/)
 - [Containers Test Pilot issues](https://github.com/mozilla/testpilot-containers/issues), request new features or help us with some existing enhancements.
 
