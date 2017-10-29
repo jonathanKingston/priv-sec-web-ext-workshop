@@ -1,5 +1,7 @@
 # Privacy/Security Extension Workshop *by* [@KingstonTime](https://twitter.com/KingstonTime)
 
+# http://bit.ly/2yUPsMi
+
 ![](images/intro.gif)
 
 1. [Read Containers background first](background.md)
